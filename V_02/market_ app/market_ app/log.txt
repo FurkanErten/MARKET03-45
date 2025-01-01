@@ -1,0 +1,6 @@
+URUN EKLEME ->, 21,21,12,12,12.00,12,21
+Aranan urunun ID'si -> 2 
+Aranan urunun ID'si -> 21 
+Aranan urunun ismi -> 21 
+Stok degisti ->  21 21
+Kategori edildi -> 12 
